@@ -9,8 +9,6 @@
 
 ![](战法-模型展示.png)
 
-![](https://i0.hdslb.com/bfs/album/90668485ef13eb6cb30b70a3e118d9a6f57607ac.gif@518w.webp)
-
 ### VTuber——神乐Meu
 从一个做独立游戏的神乐Mea单推人那里接到的委托。不过还没做完。
 ![](Meu-半成品.png)
